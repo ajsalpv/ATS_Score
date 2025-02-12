@@ -2,5 +2,6 @@ streamlit
 langchain 
 langchain-groq
 google-generativeai
+PyPDF2
 
 
